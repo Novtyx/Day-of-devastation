@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae44edb942c49304cb5eaa220c2f8792, type: 3}
+  m_Name: 35_root
+  m_EditorClassIdentifier: 
+  Name: "\u043A\u043E\u0440\u0435\u043D\u044C"
+  Description: "\u0441\u043B\u0430\u0434\u043A\u043E\u0435 \u043D\u0435\u0447\u0442\u043E.
+    \u0434\u043E\u0431\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u043F\u043E\u0434
+    \u0437\u0435\u043C\u043B\u0435\u0439"
+  icon: {fileID: 21300000, guid: f71da4ad15c14834da248c653adf2fd7, type: 3}
+  ID: 35
+  height: 20
+  isCrafting: 0
+  craftingTime: 0
+  craftingCount: 0
+  needsitems: []
+  needsitemscounts: 
+  isCampItem: 0
+  obj: {fileID: 0}
+  needFire: 0
+  feature: "\u0425\u0430\u0440-\u043A\u0438"
+  isstrength: 0
+  strengtcount: 0
+  eatingpower: -3
+  wateringpower: -3
+  energyingpower: -3
+  deathingpower: 0
+  radiationpower: 0
+  depaturepower: 0
+  bloodpower: 0

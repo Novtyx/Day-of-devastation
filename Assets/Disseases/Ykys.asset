@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d70088d3f269654bb77cb17bac986a2, type: 3}
+  m_Name: Ykys
+  m_EditorClassIdentifier: 
+  Name: "\u0423\u043A\u0443\u0441"
+  items:
+  - {fileID: 11400000, guid: 6dd95f69be4a0ec49922150d73c225cf, type: 2}
+  - {fileID: 11400000, guid: 1a83b0ad8c7b6ff42bca12e433422ad7, type: 2}
+  itemsCounts: 0100000001000000
+  timeHours: 10
+  iseating: 0
+  eatingpower: 0
+  iswatering: 0
+  wateringpower: 0
+  isenergy: 1
+  energyingpower: 1
+  isdeath: 0
+  deathingpower: 0
+  isradiation: 0
+  radiationpower: 0
+  isdepature: 0
+  depaturepower: 0
+  isblood: 1
+  bloodpower: 2

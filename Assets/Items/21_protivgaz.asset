@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dc7e3456551192449f801aa2965ea7c, type: 3}
+  m_Name: 21_protivgaz
+  m_EditorClassIdentifier: 
+  Name: "\u043F\u0440\u043E\u0442\u0438\u0432\u043E\u0433\u0430\u0437"
+  Description: "\u044D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u0430\u044F
+    \u043C\u0430\u0441\u043A\u0430 \u0434\u043B\u044F \u0437\u0430\u0449\u0438\u0442\u044B
+    \u043E\u0442 \u0440\u0430\u0434\u0438\u043E\u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0439
+    \u043F\u044B\u043B\u0438"
+  icon: {fileID: 21300000, guid: a67398e5aa9db2547b0a22955f2169a1, type: 3}
+  ID: 21
+  height: 300
+  CustomActions: []
+  isCrafting: 0
+  craftingTime: 0
+  craftingCount: 0
+  needsitems: []
+  needsitemscounts: 
+  needFire: 0
+  feature: "\u0425\u0430\u0440-\u043A\u0438"
+  isstrength: 1
+  strengtcount: 35
+  isclothes: 1
+  clothesname: 1
+  protection: 2
+  protection_radiation: 5
+  body_covering: 1
+  speed: 0

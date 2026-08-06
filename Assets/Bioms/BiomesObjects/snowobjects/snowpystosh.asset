@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be358b32ca6e6743b8a1447a561b13a, type: 3}
+  m_Name: snowpystosh
+  m_EditorClassIdentifier: 
+  NameTile: "\u0441\u043D\u0435\u0436. \u043F\u0443\u0441\u0442\u043E\u0448\u044C"
+  DescriptionTile: "\u0431\u0435\u0441\u043A\u0440\u0430\u0439\u043D\u0438\u0435
+    \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u044B \u0437\u0435\u043C\u043B\u0438"
+  Sprite: {fileID: 21300000, guid: 215a703554d639942897e35361ab4c6e, type: 3}
+  Tile: {fileID: 11400000, guid: e4b893e06c8d48d4db1be655e9e3f48e, type: 2}
+  items:
+  - {fileID: 11400000, guid: 1a83b0ad8c7b6ff42bca12e433422ad7, type: 2}
+  - {fileID: 11400000, guid: 2db80276bd537a14d8471256e7c64ce2, type: 2}
+  itemCounts: 0200000001000000
+  radiation: 0
+  MusicIndex: 1
+  SpeedCoefficient: 0.95
+  FirstColor: {r: 0.6537469, g: 0.7788826, b: 0.7830189, a: 1}
+  SecondColor: {r: 0.39607847, g: 0.35686275, b: 0.29411766, a: 1}
+  enemys:
+  - EnemyName: "\u0421\u0442\u0440\u0430\u043D\u043D\u0438\u043A"
+    sprite: {fileID: 0}
+    Count: 1
+    Power: 7
+    index: 0
+    diseaseOnLose: {fileID: 0}
+    diseaseOnWin: {fileID: 0}
+    itemsOnWin: []
+    itemsOnWinCount: 
+  events: []
+  structures: []
+  CustomActions: []

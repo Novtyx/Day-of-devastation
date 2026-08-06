@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dc7e3456551192449f801aa2965ea7c, type: 3}
+  m_Name: 26_povazka
+  m_EditorClassIdentifier: 
+  Name: "\u043F\u043E\u0432\u044F\u0437\u043A\u0430 \u043D\u0430 \u043B\u0438\u0446\u043E"
+  Description: "\u0441\u043B\u0430\u0431\u043E, \u043D\u043E \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442
+    \u043E\u0442 \u0440\u0430\u0434\u0438\u043E\u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0439
+    \u043F\u044B\u043B\u0438"
+  icon: {fileID: 21300000, guid: 1cc59cfa858ca4049a40c42c8c55eb63, type: 3}
+  ID: 26
+  height: 150
+  CustomActions: []
+  isCrafting: 1
+  craftingTime: 1
+  craftingCount: 20
+  needsitems:
+  - {fileID: 11400000, guid: aaab1cce589a6cb43b96cc5edee8d00c, type: 2}
+  - {fileID: 11400000, guid: 7ee74f4e92541c84fb7563b102e19626, type: 2}
+  - {fileID: 11400000, guid: 6a69126ae62a5cf4ab98908cdb961495, type: 2}
+  needsitemscounts: 020000000300000005000000
+  needFire: 0
+  feature: "\u0425\u0430\u0440-\u043A\u0438"
+  isstrength: 1
+  strengtcount: 20
+  isclothes: 1
+  clothesname: 1
+  protection: 1
+  protection_radiation: 1
+  body_covering: 1
+  speed: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d70088d3f269654bb77cb17bac986a2, type: 3}
+  m_Name: Sleeper
+  m_EditorClassIdentifier: 
+  Name: "\u0411\u0435\u0441\u0441\u043E\u043D\u0438\u0446\u0430"
+  items:
+  - {fileID: 11400000, guid: 6dd95f69be4a0ec49922150d73c225cf, type: 2}
+  itemsCounts: 02000000
+  iseating: 0
+  eatingpower: 0
+  iswatering: 0
+  wateringpower: 0
+  isenergy: 0
+  energyingpower: 4
+  isdeath: 0
+  deathingpower: 0
+  isradiation: 0
+  radiationpower: 0
+  isdepature: 0
+  depaturepower: 0
+  isblood: 0
+  bloodpower: 0

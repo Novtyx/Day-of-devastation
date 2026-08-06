@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae44edb942c49304cb5eaa220c2f8792, type: 3}
+  m_Name: 33_cranberry
+  m_EditorClassIdentifier: 
+  Name: "\u043A\u043B\u044E\u043A\u0432\u0430"
+  Description: "\u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u043A\u0438\u0441\u043B\u0430\u044F
+    \u044F\u0433\u043E\u0434\u0430\u044E \u0440\u0430\u0441\u0442\u0435\u0442 \u043D\u0430
+    \u0431\u043E\u043B\u043E\u0442\u0430\u0445"
+  icon: {fileID: 21300000, guid: 0e0bb334a0594bb40bf7ac6fc50611f6, type: 3}
+  ID: 33
+  height: 10
+  isCrafting: 0
+  craftingTime: 0
+  craftingCount: 0
+  needsitems: []
+  needsitemscounts: 
+  isCampItem: 0
+  obj: {fileID: 0}
+  needFire: 0
+  feature: "\u0425\u0430\u0440-\u043A\u0438"
+  isstrength: 0
+  strengtcount: 0
+  eatingpower: -5
+  wateringpower: -3
+  energyingpower: -1
+  deathingpower: 0
+  radiationpower: 0
+  depaturepower: 0
+  bloodpower: 0

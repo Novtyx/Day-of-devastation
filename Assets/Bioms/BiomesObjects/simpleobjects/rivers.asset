@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be358b32ca6e6743b8a1447a561b13a, type: 3}
+  m_Name: rivers
+  m_EditorClassIdentifier: 
+  NameTile: "\u0412\u043E\u0434\u043E\u0451\u043C"
+  DescriptionTile: "\u043E\u0445\u043B\u0430\u0436\u0434\u0430\u0435\u0442 \u0438
+    \u0443\u0432\u043B\u0430\u0436\u043D\u044F\u0435\u0442. \u043C\u043E\u0436\u043D\u043E
+    \u043D\u0430\u043B\u043E\u0432\u0438\u0442\u044C \u0440\u044B\u0431\u044B"
+  Sprite: {fileID: 21300000, guid: 21bf625f1dffc8247a6ed5fa2444f8f1, type: 3}
+  Tile: {fileID: 11400000, guid: 352080c0ec5f54149a239e00d0f32ba8, type: 2}
+  items:
+  - {fileID: 11400000, guid: 42c133ea64c2128469decaec24b7e14c, type: 2}
+  itemCounts: 02000000
+  radiation: 0
+  MusicIndex: 3
+  SpeedCoefficient: 0.35
+  FirstColor: {r: 0.33333334, g: 0.45098042, b: 0.57254905, a: 1}
+  SecondColor: {r: 0.26666668, g: 0.3647059, b: 0.47058827, a: 1}
+  enemys:
+  - EnemyName: "\u0421\u043E\u043C"
+    sprite: {fileID: 0}
+    Count: 1
+    Power: 13
+    index: 0
+    diseaseOnLose: {fileID: 0}
+    diseaseOnWin: {fileID: 0}
+    itemsOnWin: []
+    itemsOnWinCount: 
+  events: []
+  structures: []
+  CustomActions:
+  - {fileID: 11400000, guid: f8195d43e44494b40be528439599087f, type: 2}

@@ -1,0 +1,89 @@
+# =====================
+# UNITY .GITIGNORE
+# =====================
+
+# Standard Unity ignores
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Asset meta data (only ignore if asset is also ignored)
+!/[Aa]ssets/**/*.meta
+
+# JetBrains Rider
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+.consulo/
+
+# Unity generated meta for debug files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Build outputs
+*.apk
+*.unitypackage
+*.aab
+
+# Gradle
+.gradle/
+
+# Custom folders (your own)
+/AndroidBuild/
+/mods/
+/releases/
+
+# Debug folders anywhere
+**/Debug/
+**/debug/
+**/*Debug*/
+**/*debug*/
+
+# =====================
+# CRITICAL ADDITIONS
+# =====================
+
+# User settings (different per computer)
+/[Uu]ser[Ss]ettings/
+
+# Auto-generated VS Code
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Unity Package Manager cache
+/Library/PackageCache/
+
+# Profiler logs
+/Profiler/
+
+# Backup files
+*.bak
+*.old

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21424a1631b9572478900e3fba5b5986, type: 3}
+  m_Name: BEach
+  m_EditorClassIdentifier: 
+  Name: "\u043F\u0435\u0441\u0447\u0430\u043D\u0430\u044F \u0431\u0443\u0440\u044F"
+  Description: "\u0437\u0430\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0432\u043B\u0430\u0433\u0443
+    \u0431\u044B\u0441\u0442\u0440\u0435\u0435 \u043F\u043E\u043A\u0438\u0434\u0430\u0442\u044C
+    \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u043C"
+  dayColor: {r: 1, g: 0.7494451, b: 0.504717, a: 1}
+  eveningColor: {r: 0.8679245, g: 0.6624529, b: 0.43805626, a: 1}
+  nightColor: {r: 0.8207547, g: 0.59073186, b: 0.5768512, a: 1}
+  morningColor: {r: 0.8018868, g: 0.62385994, b: 0.4803756, a: 1}
+  morningIntensity: 0.3
+  dayIntensity: 0.5
+  eveningIntensity: 0.3
+  nightIntensity: 0.1
+  iseating: 0
+  eatingpower: 0
+  iswatering: 1
+  wateringpower: 1
+  isenergy: 0
+  energyingpower: 0
+  isdeath: 0
+  deathingpower: 0
+  isradiation: 0
+  radiationpower: 0
+  isdepature: 0
+  depaturepower: 0
+  isblood: 0
+  bloodpower: 0

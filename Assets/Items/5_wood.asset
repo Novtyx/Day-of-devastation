@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0776d3c14308a2a4d89f58f7f4b52815, type: 3}
+  m_Name: 5_wood
+  m_EditorClassIdentifier: 
+  Name: "\u0434\u0440\u0435\u0432\u0435\u0441\u0438\u043D\u0430"
+  Description: "\u043D\u0435\u043A\u043E\u0433\u0434\u0430 \u043F\u043B\u0430\u0432\u0430\u044E\u0449\u0435\u0435
+    \u043D\u0430 \u0432\u0435\u0442\u0440\u0443 \u0434\u0435\u0440\u0435\u0432\u043E.
+    \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F
+    \u043A\u0440\u0430\u0444\u0442\u0430"
+  icon: {fileID: 21300000, guid: aeb1523008dfd1d4a9225ba0a3da440b, type: 3}
+  ID: 5
+  height: 300
+  CustomActions:
+  - {fileID: 11400000, guid: 706b60ab6f6d2964589310c124fe5a15, type: 2}
+  - {fileID: 11400000, guid: 263831dcd84fade4ebe46f2e4bd914d6, type: 2}
+  isCrafting: 0
+  craftingTime: 0
+  craftingCount: 0
+  needsitems: []
+  needsitemscounts: 
+  needFire: 0
+  feature: "\u0425\u0430\u0440-\u043A\u0438"
+  isstrength: 0
+  strengtcount: 0
