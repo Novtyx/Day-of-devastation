@@ -64,7 +64,7 @@ Material:
     - _LerpVoronoi: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _alpha: 0
+    - _alpha: 0.26190427
     - _viniete1: 0.1
     - _viniete2: 2
     m_Colors:

@@ -44,28 +44,6 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 2800000, guid: d38b7e3885ec0834db15a4b4bc91057d, type: 3}
-    - {fileID: 2800000, guid: 019d9c5ba1d45c0468917e91db829bd6, type: 3}
-    - {fileID: 2800000, guid: 069c386b8c04ced449e0559f4beea635, type: 3}
-    - {fileID: 2800000, guid: e90d1a606b56d1c4fbf5db395b0fc49a, type: 3}
-    - {fileID: 2800000, guid: 93114740f8dc52945948be2c03a7b186, type: 3}
-    - {fileID: 2800000, guid: f9cff8fcd79f9d14bb201c73e924a454, type: 3}
-    - {fileID: 2800000, guid: a67398e5aa9db2547b0a22955f2169a1, type: 3}
-    - {fileID: 2800000, guid: 7c86d32d53ea6f0408f1974232fa7f12, type: 3}
-    - {fileID: 2800000, guid: 11040c798f7786a4ca5aae2056200117, type: 3}
-    - {fileID: 2800000, guid: 2702cd7ff2e7ee04093d87d3d6831ad5, type: 3}
-    - {fileID: 2800000, guid: ef249a7cbc216894bab4b6a7612d5069, type: 3}
-    - {fileID: 2800000, guid: aeb1523008dfd1d4a9225ba0a3da440b, type: 3}
-    - {fileID: 2800000, guid: 54010519ea14b9f4c8e97aa5dde3cce8, type: 3}
-    - {fileID: 2800000, guid: 4a5a2ea030b2d2949b161fdd26c0452e, type: 3}
-    - {fileID: 2800000, guid: b2b34c92fcef72949b3caf93be9822e8, type: 3}
-    - {fileID: 2800000, guid: 90f9b2340ef42834c985843bb80a7264, type: 3}
-    - {fileID: 2800000, guid: bf56e75f03ef1094e8ca8b6af7fef3c0, type: 3}
-    - {fileID: 2800000, guid: f8a69e89c3ffdfe42b56d8e5c43813a3, type: 3}
-    - {fileID: 2800000, guid: 5736a500260836e43a99eaf77157e3b9, type: 3}
-    - {fileID: 2800000, guid: 28c35f1920c547f4c8400794b1e5c9a5, type: 3}
-    - {fileID: 2800000, guid: 1cc59cfa858ca4049a40c42c8c55eb63, type: 3}
-    - {fileID: 2800000, guid: a89a182e975b4ee49b9ec652873c0487, type: 3}
     - {fileID: 2800000, guid: 7aa9c61203bb8504da4554abb4813fb8, type: 3}
     - {fileID: 2800000, guid: 6df5381ebd906c34aaefb94da760bb07, type: 3}
     - {fileID: 2800000, guid: f71da4ad15c14834da248c653adf2fd7, type: 3}
@@ -79,91 +57,41 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 2a2b8f778ae99584b9db09a4cb696f84, type: 3}
     - {fileID: 2800000, guid: 56797f1f8f47f864f827d46c14322ca0, type: 3}
     - {fileID: 2800000, guid: 4a1d9f4fa0fcea147ba19f416fc0023d, type: 3}
-    - {fileID: 2800000, guid: 8cf95589e4cff194d8ac48df320d8a7e, type: 3}
-    - {fileID: 2800000, guid: 42587b3918905f245ace241eb898e673, type: 3}
     - {fileID: 2800000, guid: 72f2bb2a0bb00f1449cb3208a5c4096d, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: 5736a500260836e43a99eaf77157e3b9, type: 3}
-  - {fileID: 21300000, guid: aeb1523008dfd1d4a9225ba0a3da440b, type: 3}
-  - {fileID: 21300000, guid: 93114740f8dc52945948be2c03a7b186, type: 3}
-  - {fileID: 21300000, guid: e90d1a606b56d1c4fbf5db395b0fc49a, type: 3}
-  - {fileID: 21300000, guid: 4a5a2ea030b2d2949b161fdd26c0452e, type: 3}
   - {fileID: 21300000, guid: 7aa9c61203bb8504da4554abb4813fb8, type: 3}
-  - {fileID: 21300000, guid: b2b34c92fcef72949b3caf93be9822e8, type: 3}
   - {fileID: 21300000, guid: 4068df030c3a0764b92f1f277b389723, type: 3}
-  - {fileID: 21300000, guid: 90f9b2340ef42834c985843bb80a7264, type: 3}
   - {fileID: 21300000, guid: 0e0bb334a0594bb40bf7ac6fc50611f6, type: 3}
   - {fileID: 21300000, guid: f82adfd465a945d44bc0d1e75b86548b, type: 3}
   - {fileID: 21300000, guid: 53424705d1d6c4e48a8025bb05d373cc, type: 3}
-  - {fileID: 21300000, guid: a67398e5aa9db2547b0a22955f2169a1, type: 3}
   - {fileID: 21300000, guid: 2a2b8f778ae99584b9db09a4cb696f84, type: 3}
-  - {fileID: 21300000, guid: d38b7e3885ec0834db15a4b4bc91057d, type: 3}
   - {fileID: 21300000, guid: b1c287b85d2843c4d8ed8651ed121dc8, type: 3}
-  - {fileID: 21300000, guid: 54010519ea14b9f4c8e97aa5dde3cce8, type: 3}
-  - {fileID: 21300000, guid: 28c35f1920c547f4c8400794b1e5c9a5, type: 3}
-  - {fileID: 21300000, guid: 42587b3918905f245ace241eb898e673, type: 3}
-  - {fileID: 21300000, guid: 11040c798f7786a4ca5aae2056200117, type: 3}
-  - {fileID: 21300000, guid: 8cf95589e4cff194d8ac48df320d8a7e, type: 3}
-  - {fileID: 21300000, guid: f8a69e89c3ffdfe42b56d8e5c43813a3, type: 3}
   - {fileID: -2413806693520163455, guid: 72f2bb2a0bb00f1449cb3208a5c4096d, type: 3}
   - {fileID: 21300000, guid: 90d5b1fa23e4970499539fedaf747ffa, type: 3}
-  - {fileID: 21300000, guid: 1cc59cfa858ca4049a40c42c8c55eb63, type: 3}
-  - {fileID: 21300000, guid: 019d9c5ba1d45c0468917e91db829bd6, type: 3}
-  - {fileID: 21300000, guid: 069c386b8c04ced449e0559f4beea635, type: 3}
-  - {fileID: 21300000, guid: ef249a7cbc216894bab4b6a7612d5069, type: 3}
-  - {fileID: 21300000, guid: f9cff8fcd79f9d14bb201c73e924a454, type: 3}
-  - {fileID: 21300000, guid: 7c86d32d53ea6f0408f1974232fa7f12, type: 3}
   - {fileID: 21300000, guid: f71da4ad15c14834da248c653adf2fd7, type: 3}
   - {fileID: 21300000, guid: 6df5381ebd906c34aaefb94da760bb07, type: 3}
-  - {fileID: 21300000, guid: a89a182e975b4ee49b9ec652873c0487, type: 3}
   - {fileID: 21300000, guid: a69b20ee77132fa4799ddbc83beacbea, type: 3}
   - {fileID: 21300000, guid: 56797f1f8f47f864f827d46c14322ca0, type: 3}
   - {fileID: 21300000, guid: 4a1d9f4fa0fcea147ba19f416fc0023d, type: 3}
-  - {fileID: 21300000, guid: bf56e75f03ef1094e8ca8b6af7fef3c0, type: 3}
-  - {fileID: 21300000, guid: 2702cd7ff2e7ee04093d87d3d6831ad5, type: 3}
   m_PackedSpriteNamesToIndex:
-  - 1734348100178
-  - 1733590791429
-  - 1732985309732
-  - 1732985298219
-  - 1733668969258
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F61_20241129190515"
-  - 1733855028971
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F11_20250821182952"
-  - 1734259213570
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F13_20250821190512"
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F10_20250821175810"
   - wood
-  - 1733047826503 1
   - wine
-  - 1732894797007
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F14_20250821184143"
-  - 1733660343204
-  - 1734350526274
-  - 1734965573980
-  - 1733063767898
-  - 1735065861193
-  - 1734348090245
   - Circle
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F15_20250822090429"
-  - 1734965522184
-  - 1732898487561
-  - 1732982410901 1
-  - 1733568539116
-  - 1732989330146
-  - 1733060543990
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F17_20250822093408"
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F18_20250822094316"
-  - 1734965553072
   - "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F12_20250822091034"
   - water
   - vodka
-  - 1734348079161
-  - 1733568522102
   m_RenderDataMap: {}
   m_Tag: Items
   m_IsVariant: 0

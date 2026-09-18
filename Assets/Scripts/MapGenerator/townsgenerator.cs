@@ -22,7 +22,7 @@ public class townsgenerator : MonoBehaviour
     }
     IEnumerator LoadTowns()
     {
-        yield return new WaitUntil(() => Inventory.instance.LuaModsManager.isLoaded);
+        yield return null; // new WaitUntil(() => Inventory.instance.LuaModsManager.isLoaded);
 
         for (int i = 0; i < points.Count; i++)
         {

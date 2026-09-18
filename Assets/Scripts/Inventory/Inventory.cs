@@ -22,7 +22,7 @@ public struct ItemInstanceID
 public class Inventory : MonoBehaviour
 {
     public static Inventory instance;
-    public LuaModsManager LuaModsManager;
+    //public LuaModsManager LuaModsManager;
 
     public List<ItemInstance> items = new();                // Список предметов
 
@@ -533,7 +533,7 @@ public class Inventory : MonoBehaviour
         {
             clothesSlots = clothesParent.GetComponentsInChildren<ClothesSlot>();
         }
-        Debug.Log(LuaModsManager.isLoaded);
+
         // Устанавливаем слоты для одежды
         ItemInstanceID item = new ItemInstanceID();
         clothesitems.Add("0", item);
@@ -840,7 +840,7 @@ public class Inventory : MonoBehaviour
     }
     IEnumerator LoadCampItems(InventoryData data)
     {
-        yield return new WaitUntil(() => LuaModsManager.isLoaded);
+        yield return null;//new WaitUntil(() => LuaModsManager.isLoaded);
 
         this.clothesitems = data.clothesitems;
         RefreshClothes();
@@ -874,7 +874,7 @@ public class Inventory : MonoBehaviour
     }
     IEnumerator LoadItems(InventoryData data)
     {
-        yield return new WaitUntil(() => LuaModsManager.isLoaded);
+        yield return null; //new WaitUntil(() => LuaModsManager.isLoaded);
         for (int i = 0; i < data.items.Count; i++)
         {
             foreach (Item it in maymeitems)

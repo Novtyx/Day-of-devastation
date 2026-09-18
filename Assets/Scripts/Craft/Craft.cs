@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Craft : MonoBehaviour
 {
     public static Craft instance;
-    public LuaModsManager LuaModsManager;
+    //public LuaModsManager LuaModsManager;
 
     [SerializeField] Transform itemsParent;
     [SerializeField] CraftSlot[] itemSlots;
@@ -51,7 +51,7 @@ public class Craft : MonoBehaviour
     }
     IEnumerator LoadCrafts()
     {
-        yield return new WaitUntil(() => LuaModsManager.isLoaded);
+        yield return null; // new WaitUntil(() => LuaModsManager.isLoaded);
 
         for (int i = 0; i < Inventory.instance.maymeitems.Count; i++)
         {
